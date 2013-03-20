@@ -1,5 +1,5 @@
 body {
-  background: #e8e8e8;
+	background: #e8e8e8;
 	color:red;
 	font-family:"Trebuchet MS",Helvetica,Jamrul,sans-serif;
 	text-shadow:1px 1px 0 #fff;
@@ -35,7 +35,7 @@ h1 {
 	position: absolute;
 	margin-top: 3px;
 
-	box-shadow:3px 3px 5px #666;
+	box-shadow: inset 3px 3px 5px #666;
 	-webkit-box-shadow: inset 3px 3px 5px #666;
-	-moz-box-shadow:3px 3px 5px #666;
+	-moz-box-shadow: inset 3px 3px 5px #666;
 }
